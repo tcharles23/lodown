@@ -337,7 +337,7 @@ function every(collection, func) {
             }
         });
     }
-    // else return true
+   
     return truthy;
 };
  
